@@ -1,0 +1,11 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+qrcode[pil]==7.4.2
+requests==2.31.0
+python-socketio==5.11.0
+pyperclip==1.8.2
+
+# 打包工具（可选，用于生成exe）
+# pyinstaller==6.3.0
+
