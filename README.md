@@ -8,7 +8,7 @@
 
 👉 **[下载最新版本](https://github.com/2090686364/lan-file-airdrop/releases)**
 
-1. 在 Releases 页面下载 `文件空投系统.exe`
+1. 在 Releases 页面下载 `lan-file-airdrop.exe`
 2. 双击运行，浏览器会自动打开
 3. 手机扫码即可开始传输
 
